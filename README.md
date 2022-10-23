@@ -6,7 +6,7 @@
 
 ### 🛠 Languages & Tools:
 
-##### General
+**General**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google+Colab&logoColor=white&style=flat-square" />
 </p>
 
-##### Web Development
+**Web Development**
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square" />
@@ -31,13 +31,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" />
 </p>
 
-##### Game Development
+**Game Development**
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=C+Sharp&logoColor=white&style=flat-square" />
 </p>
 
-##### Adobe
+**Adobe**
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe+Photoshop&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Lightroom Classic-31A8FF?logo=Adobe+Lightroom Classic&logoColor=white&style=flat-square" />
