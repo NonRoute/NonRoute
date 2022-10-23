@@ -1,10 +1,11 @@
-### Hi, I'm Non 👋
+## Hi, I'm Non 👋
 - 🎓 I'm a Computer Engineering student at Chulalongkorn University (CU104/CP47)
 - 💻 I'm interested in Software development, Web development, and Game development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: chanon.ratn@gmail.com
 
-#### Languages & Tools:
+### 🛠 Languages & Tools:
+
 ##### General
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
@@ -13,8 +14,8 @@
   <img src="https://img.shields.io/badge/Java-C01818?logo=Java&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google+Colab&logoColor=white&style=flat-square" />
 </p>
 
 ##### Web Development
@@ -33,7 +34,15 @@
 ##### Game Development
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=C Sharp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=C+Sharp&logoColor=white&style=flat-square" />
+</p>
+
+##### Adobe
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe+Photoshop&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Lightroom Classic-31A8FF?logo=Adobe+Lightroom Classic&logoColor=white&style=flat-square" />
+   <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=Adobe+Illustrator&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?logo=Adobe+Premiere Pro&logoColor=white&style=flat-square" />
 </p>
 
 <!--
