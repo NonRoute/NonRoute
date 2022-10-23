@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Non 👋
+- 🌱 I’m currently learning web development
+- 🎓 I'm a Computer Engineering student at Chulalongkorn University (CU104/CP47)
+- 📫 How to reach me: chanon.ratn@gmail.com
 
 <!--
 **NonRoute/NonRoute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
