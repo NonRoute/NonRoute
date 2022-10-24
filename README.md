@@ -1,9 +1,8 @@
 ## Hi, I'm Non 👋
 - 🎓 I'm a Computer Engineering student at Chulalongkorn University (CU104/CP47)
 - 💻 I'm interested in Software development, Web development, and Game development
-- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: chanon.ratn@gmail.com
-
+<!--
 ### 🛠 Languages & Tools:
 
 **General**
@@ -45,6 +44,7 @@
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?logo=Adobe+Premiere Pro&logoColor=white&style=flat-square" />
 </p>
 
+-->
 <!--
 **NonRoute/NonRoute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
