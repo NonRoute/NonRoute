@@ -2,7 +2,7 @@
 - 🎓 I'm a Computer Engineering student at Chulalongkorn University (CU104/CP47)
 - 💻 I'm interested in Software development, Web development, and Game development
 - 📫 How to reach me: chanon.ratn@gmail.com
-<!--
+
 ### 🛠 Languages & Tools:
 
 **General**
@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google+Colab&logoColor=white&style=flat-square" />
 </p>
 
 **Web Development**
@@ -36,6 +35,7 @@
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=C+Sharp&logoColor=white&style=flat-square" />
 </p>
 
+<!--
 **Adobe**
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe+Photoshop&logoColor=white&style=flat-square" />
