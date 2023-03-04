@@ -11,17 +11,20 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square" /
   <img src="https://img.shields.io/badge/Java-C01818?logo=Java&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=Google%20Colab&logoColor=white&style=flat-square" />
 </p>
 
 **Web Development**
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=MUI&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
