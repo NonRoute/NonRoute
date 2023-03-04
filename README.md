@@ -11,7 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square" /
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Java-C01818?logo=Java&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat-square" />
