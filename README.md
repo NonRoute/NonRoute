@@ -57,7 +57,7 @@
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NonRoute&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonRoute)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonRoute&theme=slateorange&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NonRoute/NonRoute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
