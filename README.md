@@ -1,6 +1,6 @@
 ## Hi, I'm Non 👋
 - 🎓 I'm a 3rd year Computer Engineering student at Chulalongkorn University (CU104/CP47)
-- 💻 I'm interested in Software development, Web development, and Game development
+- 💻 I'm interested in Web development, Software development and Game development
 - 📫 How to reach me: 
   - Email: chanon.ratn@gmail.com
   - Discord: nonroute
@@ -8,6 +8,7 @@
 ### 🛠 Languages & Tools:
 
 **General**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
@@ -54,6 +55,9 @@
 </p>
 
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NonRoute&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonRoute)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NonRoute/NonRoute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
