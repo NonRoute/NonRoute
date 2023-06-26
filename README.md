@@ -61,6 +61,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats-nonroute.vercel.app/api?username=NonRoute&theme=slateorange&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP          13 hrs 29 mins  ████████████▓░░░░░░░░░░░░   50.27 %
+JavaScript   8 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 %
+CSS          3 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+SQL          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
