@@ -63,6 +63,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 18 June 2023 - To: 25 June 2023
+
+Total Time: 26 hrs 49 mins
+
 PHP          13 hrs 29 mins  ████████████▓░░░░░░░░░░░░   50.27 %
 JavaScript   8 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 %
 CSS          3 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
