@@ -55,11 +55,7 @@
 </p>
 
 -->
-
-### 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=NonRoute&theme=dark&date_format=j%20M%5B%20Y%5D)
-![Anurag's GitHub stats](https://github-readme-stats-nonroute.vercel.app/api?username=NonRoute&theme=slateorange&count_private=true&show_icons=true)
-
+### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
@@ -75,6 +71,10 @@ SQL          20 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=NonRoute&theme=dark&date_format=j%20M%5B%20Y%5D)
+![Anurag's GitHub stats](https://github-readme-stats-nonroute.vercel.app/api?username=NonRoute&theme=slateorange&count_private=true&show_icons=true)
 
 <!--
 **NonRoute/NonRoute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
