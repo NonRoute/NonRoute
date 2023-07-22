@@ -59,15 +59,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2023 - To: 20 July 2023
+From: 14 July 2023 - To: 21 July 2023
 
-Total Time: 28 hrs 14 mins
+Total Time: 35 hrs 34 mins
 
-JavaScript   16 hrs 11 mins  ██████████████▒░░░░░░░░░░   57.37 %
-PHP          8 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-CSS          3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-SQL          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript   18 hrs 41 mins  █████████████░░░░░░░░░░░░   52.52 %
+PHP          11 hrs 13 mins  ████████░░░░░░░░░░░░░░░░░   31.56 %
+CSS          4 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+SQL          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
