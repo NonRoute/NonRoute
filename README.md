@@ -1,5 +1,5 @@
 ## Hi, I'm Non 👋
-- 🎓 I'm a 3rd year Computer Engineering student at Chulalongkorn University (CU104/CP47)
+- 🎓 I'm a 4rd year Computer Engineering student at Chulalongkorn University (CU104/CP47)
 - 💻 I'm interested in Web development, Software development and Game development
 - 📫 How to reach me: 
   - Email: chanon.ratn@gmail.com
@@ -55,22 +55,6 @@
 </p>
 
 -->
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 July 2023 - To: 03 August 2023
-
-Total Time: 27 hrs 34 mins
-
-JavaScript   10 hrs 46 mins  █████████▓░░░░░░░░░░░░░░░   39.07 %
-PHP          9 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
-CSS          5 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-CSV          1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-```
-
-<!--END_SECTION:waka-->
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=NonRoute&theme=dark&date_format=j%20M%5B%20Y%5D)
