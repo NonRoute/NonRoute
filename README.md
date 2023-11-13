@@ -3,7 +3,6 @@
 - 💻 I'm interested in Web development, Software development and Game development
 - 📫 How to reach me: 
   - Email: chanon.ratn@gmail.com
-  - Discord: nonroute
 
 ### 🛠 Languages & Tools:
 
