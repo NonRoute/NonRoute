@@ -38,10 +38,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" />
 </p>
 
+**Application Development**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
+</p>
+
 **Game Development**
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=C+Sharp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat-square" />
 </p>
 
 <!--
@@ -49,7 +54,7 @@
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe+Photoshop&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Lightroom Classic-31A8FF?logo=Adobe+Lightroom Classic&logoColor=white&style=flat-square" />
-   <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=Adobe+Illustrator&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=Adobe+Illustrator&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?logo=Adobe+Premiere Pro&logoColor=white&style=flat-square" />
 </p>
 
