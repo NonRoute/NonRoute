@@ -1,19 +1,20 @@
 ## Hi, I'm Non 👋
 - 🎓 I'm a 4th year Computer Engineering student at Chulalongkorn University (CU104/CP47)
-- 💻 I'm interested in Web development, Software development and Game development
+- 💻 I'm interested in Web development, Mobile development and Game development
 - 📫 How to reach me: 
   - Email: chanon.ratn@gmail.com
 
 ### 🛠 Languages & Tools:
 
-**General**
+**Fundamental**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Java-C01818?logo=Java&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white&style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=Google%20Colab&logoColor=white&style=flat-square" />
@@ -38,7 +39,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" />
 </p>
 
-**Application Development**
+**Mobile Development**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
 </p>
@@ -48,17 +49,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat-square" />
 </p>
-
-<!--
-**Adobe**
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe+Photoshop&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Lightroom Classic-31A8FF?logo=Adobe+Lightroom Classic&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=Adobe+Illustrator&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?logo=Adobe+Premiere Pro&logoColor=white&style=flat-square" />
-</p>
-
--->
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=NonRoute&theme=dark&date_format=j%20M%5B%20Y%5D)
