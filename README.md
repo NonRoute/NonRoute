@@ -1,5 +1,5 @@
 ## Hi, I'm Non 👋
-- 🎓 I'm a 4th year Computer Engineering student at Chulalongkorn University (CU104/CP47)
+- 🎓 I'm a graduated Computer Engineering student from Chulalongkorn University (CU104/CP47)
 - 💻 I'm interested in Web development, Mobile development and Game development
 - 📫 How to reach me: 
   - Email: chanon.ratn@gmail.com
