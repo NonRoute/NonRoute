@@ -1,37 +1,33 @@
 ## Hi, I'm Non 👋
-- 🎓 I'm a graduated Computer Engineering student from Chulalongkorn University (CU104/CP47)
-- 💻 I'm interested in Web development, Mobile development and Game development
+- 🚀 Currently working as a Junior Full Stack Developer
+- 🎓 Graduated Computer Engineering student from Chulalongkorn University (CU104/CP47)
+- 💻 I'm interested in Web development and UX/UI Design
 - 📫 How to reach me: 
   - Email: chanon.ratn@gmail.com
 
 ### 🛠 Languages & Tools:
 
-**Fundamental**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-C01818?logo=Java&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=flat-square" /><br/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=Google%20Colab&logoColor=white&style=flat-square" />
-</p>
-
-**Web Development**
+**Currently Using**
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=MUI&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white&style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white&style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC?logo=typescript&logoColor=white&style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MinIO-7D3AE8?logo=minio&logoColor=white&style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+</p>
+
+**Familiar With**
+<p>
+
   <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square" />
@@ -39,16 +35,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" />
 </p>
 
-**Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
-</p>
-
-**Game Development**
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat-square" />
-</p>
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=NonRoute&theme=dark&date_format=j%20M%5B%20Y%5D)
