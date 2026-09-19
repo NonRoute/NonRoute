@@ -1,5 +1,5 @@
 ## Hi, I'm Non 👋
-- 🚀 Currently working as a Junior Full Stack Developer
+- 🚀 Currently working as a Software Engineer
 - 🎓 Graduated Computer Engineering student from Chulalongkorn University (CU104/CP47)
 - 💻 I'm interested in Web development and UX/UI Design
 - 📫 How to reach me: 
